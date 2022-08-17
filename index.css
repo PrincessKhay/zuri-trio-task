@@ -27,11 +27,6 @@ a:hover {
     max-width: 1240px !important;
 }
 
-.blah {
-    display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 20px;
-}
 
 .first-image {
     margin: auto;
@@ -43,12 +38,6 @@ a:hover {
 .first-image img {
     margin: auto;
 }
-
-/* .logo-img {
-    margin-top: 69px;
-    margin-left: 100px;
-    margin-bottom: 143px;
-} */
 
 .first-section {
     height: 800px;
@@ -117,7 +106,6 @@ a:hover {
 
 section.second-section {
     background-color: #fff;
-    /* overflow: hidden; */
 }
 
 .information {
@@ -144,14 +132,11 @@ section.second-section {
 
 .the-container {
     margin: 0 auto;
-    /*max-width: 1240px;*/
     text-align: center;
-    /*border: 1px solid red;*/
 }
 
 
 .information-card {
-    /*height: 511px;*/
     width: 100%;
     background-color: #FFFAFA;
     padding: 61px 47px 82px 36px;
